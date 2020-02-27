@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/projects/car-dealership/CarDealership/bin/Debug/netcoreapp2.2/CarDealership.deps.json
+/Users/Guest/Desktop/projects/car-dealership/CarDealership/bin/Debug/netcoreapp2.2/CarDealership.runtimeconfig.json
+/Users/Guest/Desktop/projects/car-dealership/CarDealership/bin/Debug/netcoreapp2.2/CarDealership.runtimeconfig.dev.json
+/Users/Guest/Desktop/projects/car-dealership/CarDealership/bin/Debug/netcoreapp2.2/CarDealership.dll
+/Users/Guest/Desktop/projects/car-dealership/CarDealership/bin/Debug/netcoreapp2.2/CarDealership.pdb
+/Users/Guest/Desktop/projects/car-dealership/CarDealership/obj/Debug/netcoreapp2.2/CarDealership.csprojAssemblyReference.cache
+/Users/Guest/Desktop/projects/car-dealership/CarDealership/obj/Debug/netcoreapp2.2/CarDealership.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/projects/car-dealership/CarDealership/obj/Debug/netcoreapp2.2/CarDealership.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/projects/car-dealership/CarDealership/obj/Debug/netcoreapp2.2/CarDealership.AssemblyInfo.cs
+/Users/Guest/Desktop/projects/car-dealership/CarDealership/obj/Debug/netcoreapp2.2/CarDealership.dll
+/Users/Guest/Desktop/projects/car-dealership/CarDealership/obj/Debug/netcoreapp2.2/CarDealership.pdb
